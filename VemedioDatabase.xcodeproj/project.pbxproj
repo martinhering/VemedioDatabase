@@ -101,7 +101,6 @@
 				1B3F73BF1C4657BA004160B7 /* libsqlite3.tbd */,
 				1B3F73851C4650F2004160B7 /* libsqlite3.tbd */,
 				1B3F73581C464FBA004160B7 /* VemedioDatabase */,
-				1B3F73A81C465721004160B7 /* VemedioDatabase-OSX */,
 				1B3F73571C464FBA004160B7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -158,13 +157,6 @@
 				1B3F73A01C46551F004160B7 /* FMMacros.h */,
 			);
 			path = fmdb;
-			sourceTree = "<group>";
-		};
-		1B3F73A81C465721004160B7 /* VemedioDatabase-OSX */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "VemedioDatabase-OSX";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -524,6 +516,7 @@
 				1B3F73AE1C465721004160B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
