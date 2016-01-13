@@ -6,7 +6,7 @@
 //  Copyright © 2016 Vemedio. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for VemedioDatabase.
 FOUNDATION_EXPORT double VemedioDatabaseVersionNumber;
@@ -17,3 +17,9 @@ FOUNDATION_EXPORT const unsigned char VemedioDatabaseVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <VemedioDatabase/PublicHeader.h>
 
 
+#import <VemedioDatabase/FMDatabase.h>
+#import <VemedioDatabase/FMResultSet.h>
+#import <VemedioDatabase/FMDatabaseAdditions.h>
+#import <VemedioDatabase/FMDatabaseQueue.h>
+#import <VemedioDatabase/FMDatabasePool.h>
+#import <VemedioDatabase/FCModel.h>
