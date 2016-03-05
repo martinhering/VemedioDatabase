@@ -43,7 +43,6 @@
 		1B3F73BD1C465767004160B7 /* FMResultSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B3F73721C464FD8004160B7 /* FMResultSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1B3F73BE1C465782004160B7 /* VemedioDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B3F73591C464FBA004160B7 /* VemedioDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1B3F73C01C4657BA004160B7 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B3F73BF1C4657BA004160B7 /* libsqlite3.tbd */; };
-		1B3F73C21C46591A004160B7 /* Info-OSX.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1B3F73C11C46591A004160B7 /* Info-OSX.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -278,7 +277,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B3F73C21C46591A004160B7 /* Info-OSX.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
