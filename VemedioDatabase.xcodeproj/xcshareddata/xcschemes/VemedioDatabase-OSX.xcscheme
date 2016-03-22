@@ -11,12 +11,7 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-<<<<<<< Updated upstream
-            buildForAnalyzing = "YES"
-            hideIssues = "NO">
-=======
             buildForAnalyzing = "YES">
->>>>>>> Stashed changes
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1B3F73A61C465721004160B7"
