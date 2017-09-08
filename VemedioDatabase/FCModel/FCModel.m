@@ -1291,7 +1291,7 @@ static inline BOOL checkForOpenDatabaseFatal(BOOL fatal)
         g_primaryKeyFieldName = [mutablePrimaryKeyFieldName copy];
     }];
     
-    [g_databaseQueue startMonitoringForExternalChanges];
+    //[g_databaseQueue startMonitoringForExternalChanges];
 }
 
 + (BOOL)closeDatabase
